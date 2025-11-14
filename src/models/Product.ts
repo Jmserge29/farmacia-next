@@ -79,4 +79,8 @@ ProductSchema.pre('save', function(next) {
   next();
 });
 
+<<<<<<< HEAD
 export default mongoose.models.Product || mongoose.model<IProduct>('Product', ProductSchema);
+=======
+export default mongoose.models.Product || mongoose.model<IProduct>('Product', ProductSchema);
+>>>>>>> e92e1b769dd6025695d105952d7b8ddb1f82d0b5
