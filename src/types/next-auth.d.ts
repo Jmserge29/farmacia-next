@@ -21,4 +21,8 @@ declare module 'next-auth/jwt' {
     role: string;
     id: string;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e92e1b769dd6025695d105952d7b8ddb1f82d0b5
